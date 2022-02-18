@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    padding: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    background-color: f1f1f1;
+    /* background-color: brown; */
+    /* max-width: 750px; */
+    /* display: center; */
+    /* margin: auto; */
+    /* margin-bottom: 10px; */
+}
+
+p, li, td {
+    font-weight: normal;
+    color: rgb(48, 40, 40);
+}
+
+h1, h2, tr {
+    font-style: initial ;
+    color: rgb(26, 12, 104);
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+.container {
+    max-width: 75%;
+    margin-bottom: 10px;
+    margin: auto;
+    padding: 20;
+}
+
+.info {
+    background-color: rgb(243, 240, 236);  
+    margin: auto;
+    border-radius: 28px;
+}
+
+/* .info p:nth-child(1) { */
+    /* text-decoration: none; */
+/* } */
+
+.avatar {
+    width: 250px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.Skills {
+    padding: 20px;
+    margin-top:  15px;
+    border-radius: 28px;
+}
+
+.Skills li {
+    padding-top: 10px;
+}
+
+.experience {
+    padding: 20px;
+    margin-top:  15px;
+    margin-bottom: 10px;
+    border-radius: 28px;
+}
+
+.infofooter {
+    padding: 20px;
+    margin-top:  15px;
+    border-radius: 28px;
+}
+
+.infofooter p {
+    letter-spacing: 2px;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
+.bg-green {
+    background: #e5ffe7;
+}
+.bg-red {
+    background: #ffe5e5;
+}
+
+.table {
+    padding: 20px;
+    width: 100%;
+}
+
+.table tr {
+    text-decoration: none;
+}
